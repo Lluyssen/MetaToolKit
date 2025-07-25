@@ -6,7 +6,7 @@ En vrai ca serre à rien, je ne vois pas vraiment quand tu peux l'utiliser sauf 
 
 Mais trés intéréssant à produire
 
-PS: ca ne marche pas sur les allocations dynamique car on fait du compileTime
+PS: ca ne marche pas sur les allocations dynamique car on fait du compileTime,
 pour faire du runTime passer par boost qui passe par du Python
 
 ## Usage
