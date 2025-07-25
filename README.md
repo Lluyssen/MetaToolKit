@@ -57,8 +57,6 @@ compareValue(a, b); // true
 
 ---
 
----
-
 ## 🧠 Détails techniques
 
 ### 🔍 Introspection avec `tie()`
