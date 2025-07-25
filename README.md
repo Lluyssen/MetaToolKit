@@ -57,22 +57,6 @@ compareValue(a, b); // true
 
 ---
 
-## 📚 Objectif
-
-Ce toolkit permet de construire facilement :
-- des systèmes de validation par introspection
-- des comparateurs structurés
-- des éditeurs automatiques (inspecteurs)
-- des sérialiseurs JSON/XML
-- des outils ECS avec types dynamiques (type switch, storage)
-
----
-
-## 📄 Licence
-
-Ce code est en domaine public ou utilisable librement dans tous projets personnels/professionnels.
-
-
 ---
 
 ## 🧠 Détails techniques
